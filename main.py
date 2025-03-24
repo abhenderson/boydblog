@@ -46,7 +46,6 @@ app,rt = fast_app(
         Script(src="static/fasthtml.js"),
         Script(src="static/surreal.js"),
         Script(src="static/script.js"),
-        Script(src="static/index.global.js"),
         Meta(charset='utf-8'),
 #        Script(type='module')
     ),
