@@ -1,4 +1,7 @@
 .sesskey
 __pycache__
 .ipynb_checkpoints
+nbs/.ipynb_checkpoints
+static/.ipynb_checkpoints
+
 
